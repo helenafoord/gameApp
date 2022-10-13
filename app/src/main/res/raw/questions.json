@@ -1,10 +1,49 @@
 [
   {
-    "question": "Which bear is best?",
-    "answer": false
+    "question": "Madonna's real name is Madonna.",
+    "answer": ["true", "false"],
+    "correct": "true"
   },
   {
-    "question": "hello?",
-    "answer" : true
+    "question": "Trisha Paytas just named her daughter Pink Barbie.",
+    "answer" : ["false", "true"],
+    "correct": "false"
   },
+  {
+    "question": "'Spaghetto' is the singular word for a piece of spaghetti.",
+    "answer": ["true", "false"],
+    "correct": "true"
+  },
+
+  {
+    "question": "Meghan Markle's first name is actually Rachel.",
+    "answer": ["true", "false"],
+    "correct": "true"
+  },
+  {
+    "question": "log2(320)-log2(10) = 4",
+    "answer": ["true", "false"],
+    "correct": "false"
+  },
+
+  {
+    "question": "Goldfish have a two second memory span.",
+    "answer": ["true", "false"],
+    "correct": "false"
+  },
+  {
+    "question": "Alexander Hamilton had two children with Eliza.",
+    "answer": ["true", "false"],
+    "correct": "false"
+  },
+  {
+    "question": "The snow on Venus is metal.",
+    "answer": ["true", "false"],
+    "correct": "true"
+  },
+  {
+    "question": "The letter 'A' is the most common letter in the English Langauge.",
+    "answer": ["true", "false"],
+    "correct": "false"
+  }
 ]

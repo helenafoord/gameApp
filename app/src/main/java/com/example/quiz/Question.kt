@@ -1,6 +1,5 @@
 package com.example.quiz
-import
 
-class Question (val question: String){
+data class Question (val question: String, val answer:List<String>){
 
 }

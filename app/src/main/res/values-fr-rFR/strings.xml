@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">le petit interro</string>
+    <string name="main_true">vrai</string>
+    <string name="main_false">faux</string>
+    <string name="main_score">nombre de points</string>
+</resources>
